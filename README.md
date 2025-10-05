@@ -22,6 +22,7 @@
 - Clear workspace with one click for fresh operations.
 
 ---
+<img width="1299" height="755" alt="image" src="https://github.com/user-attachments/assets/491a0abb-a718-4fc0-a00a-755c5a47f8d3" />
 
 ##  Installation
 
